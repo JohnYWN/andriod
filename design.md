@@ -1,5 +1,3 @@
-为了帮助你高效地使用 Figma Make AI 生成符合需求的安卓端界面，我基于你提供的《需求文档(1).pdf》整理了以下的设计规范。
-
 这份规范将文档中的功能需求转化为 AI 可以识别的视觉关键词（如 Material Design、深色模式等），旨在构建一个专业、沉浸且具有科技感的足球赛事应用界面。
 
 🎨 Figma Make AI 设计规范：Ella Football AI (Android)
